@@ -25,7 +25,7 @@
 - Added the tile layer. 
 <img width="806" alt="Screenshot 2023-04-16 at 4 49 19 PM" src="https://user-images.githubusercontent.com/119909433/232344385-986928d3-1a90-46d2-bb99-b06cb39071c5.png">
 
-- Getting the GeoJson data. 
+- Got the GeoJson data. 
 <img width="821" alt="Screenshot 2023-04-16 at 4 49 51 PM" src="https://user-images.githubusercontent.com/119909433/232344412-296b8e7b-59da-4edb-8827-3b7027404b39.png">
 
 - Created a conditional function to select each color based on the depth of the earthquake. 
@@ -44,7 +44,11 @@
 <img width="853" alt="Screenshot 2023-04-16 at 4 53 38 PM" src="https://user-images.githubusercontent.com/119909433/232344639-ba8365d0-ad6d-41d0-b9b0-0f9cb6834c46.png">
 <img width="820" alt="Screenshot 2023-04-16 at 4 53 55 PM" src="https://user-images.githubusercontent.com/119909433/232344660-4efd446d-c85e-41a0-a102-f44a7ca3f61e.png">
 
-# Note: Some of the code was developed with the help of my tutor and one block of code was developed based on code from my tutor/a reference from Google Groups ("https://groups.google.com/g/leaflet-js/c/jsuGLzD5VsQ?pli=1"). See the included JS file for details. 
+- Displayed the final map. 
+<img width="779" alt="Screenshot 2023-04-16 at 5 09 33 PM" src="https://user-images.githubusercontent.com/119909433/232345358-b45ce880-efbc-42df-93cb-b3218ddad1f9.png">
+
+
+### Note: Some of the code was developed with the help of my tutor and one block of code was developed based on code from my tutor/a reference from Google Groups ("https://groups.google.com/g/leaflet-js/c/jsuGLzD5VsQ?pli=1"). See the included JS file for details. 
 
 
 # Author 
