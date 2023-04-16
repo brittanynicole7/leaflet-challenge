@@ -12,11 +12,11 @@
 - Create a legend for the map.
 
 # Software and Files
-- Leaflet CSS: "https://unpkg.com/leaflet@1.6.0/dist/leaflet.css"
-- Leaflet JS: "https://unpkg.com/leaflet@1.6.0/dist/leaflet.js"
-- D3 JS: "https://d3js.org/d3.v5.min.js"
-- OpenStreetMap for the tile layer: "https://www.openstreetmap.org/copyright"
-- JSON file for earthquake data:"https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_week.geojson"
+- Leaflet CSS: https://unpkg.com/leaflet@1.6.0/dist/leaflet.css
+- Leaflet JS: https://unpkg.com/leaflet@1.6.0/dist/leaflet.js
+- D3 JS: https://d3js.org/d3.v5.min.js
+- OpenStreetMap for the tile layer: https://www.openstreetmap.org/copyright
+- JSON file for earthquake data: https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_week.geojson
 
 # Output/Analyses
 - Created the map object. 
@@ -47,7 +47,7 @@
 - Displayed the final map. 
 <img width="779" alt="Screenshot 2023-04-16 at 5 09 33 PM" src="https://user-images.githubusercontent.com/119909433/232345358-b45ce880-efbc-42df-93cb-b3218ddad1f9.png">
 
-#### Note: Some of the code was developed with the help of my tutor and one block of code was developed based on code from my tutor/ a reference from Google Groups ("https://groups.google.com/g/leaflet-js/c/jsuGLzD5VsQ?pli=1"). See the included JS file for details. 
+#### Note: Some of the code was developed with the help of my tutor and one block of code was developed based on code from my tutor/ a reference from Google Groups (https://groups.google.com/g/leaflet-js/c/jsuGLzD5VsQ?pli=1). See the included JS file for details. 
 
 
 # Author 
