@@ -31,10 +31,10 @@
 - Created a conditional function to select each color based on the depth of the earthquake. 
 <img width="826" alt="Screenshot 2023-04-16 at 4 50 24 PM" src="https://user-images.githubusercontent.com/119909433/232344449-9aaf2ec6-614b-4de0-9a09-72a552b8c9a0.png">
 
-- Styled each circlemarker. 
+- Styled each circle marker. 
 <img width="736" alt="Screenshot 2023-04-16 at 4 51 06 PM" src="https://user-images.githubusercontent.com/119909433/232344494-f341b58c-d115-4322-9087-674b63f4bd20.png">
 
-- Created/plotted a circlemarker for each point. 
+- Created/plotted a circle marker for each point. 
 <img width="909" alt="Screenshot 2023-04-16 at 4 51 53 PM" src="https://user-images.githubusercontent.com/119909433/232344536-838a3b8d-cce7-4467-aea8-320aaca3f242.png">
 
 - Created a popup for each marker with information about the location, magnitude, and depth. 
@@ -47,7 +47,7 @@
 - Displayed the final map. 
 <img width="779" alt="Screenshot 2023-04-16 at 5 09 33 PM" src="https://user-images.githubusercontent.com/119909433/232345358-b45ce880-efbc-42df-93cb-b3218ddad1f9.png">
 
-#### Note: Some of the code was developed with the help of my tutor and one block of code was developed based on code from my tutor/a reference from Google Groups ("https://groups.google.com/g/leaflet-js/c/jsuGLzD5VsQ?pli=1"). See the included JS file for details. 
+#### Note: Some of the code was developed with the help of my tutor and one block of code was developed based on code from my tutor/ a reference from Google Groups ("https://groups.google.com/g/leaflet-js/c/jsuGLzD5VsQ?pli=1"). See the included JS file for details. 
 
 
 # Author 
