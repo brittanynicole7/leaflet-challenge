@@ -47,8 +47,7 @@
 - Displayed the final map. 
 <img width="779" alt="Screenshot 2023-04-16 at 5 09 33 PM" src="https://user-images.githubusercontent.com/119909433/232345358-b45ce880-efbc-42df-93cb-b3218ddad1f9.png">
 
-
-### Note: Some of the code was developed with the help of my tutor and one block of code was developed based on code from my tutor/a reference from Google Groups ("https://groups.google.com/g/leaflet-js/c/jsuGLzD5VsQ?pli=1"). See the included JS file for details. 
+# Note: Some of the code was developed with the help of my tutor and one block of code was developed based on code from my tutor/a reference from Google Groups ("https://groups.google.com/g/leaflet-js/c/jsuGLzD5VsQ?pli=1"). See the included JS file for details. 
 
 
 # Author 
