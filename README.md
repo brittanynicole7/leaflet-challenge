@@ -2,7 +2,7 @@
 
 # Project Description 
 
-## Create a map visualization of earthquake data.
+## Create a Map Visualization of Earthquake Data.
 - Select a dataset from https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php
 - Pull the JSON data using the url to use in the map visualization.
 - Create a map that plots all the earthquakes based on their latitude and longitude.
